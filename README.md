@@ -187,6 +187,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| AgentMade Print on Demand | E-Commerce | `https://pod.agentmade.dev/mcp/pay` | Open | [AgentMade](https://pod.agentmade.dev/agents) |
 
 # Remote MCP Installation Guide
 
